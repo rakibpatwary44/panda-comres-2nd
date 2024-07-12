@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 100px;
+}
+.oreng-back{
+ background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(227, 88, 135);
+}
+.now-button{
+    border: none;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 9px;
+    cursor: pointer;
+    background-image: linear-gradient(to bottom, pink  0%, rgb(230, 96, 118) 100%);
+}
