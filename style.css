@@ -1,4 +1,8 @@
-.container{
+.container h5{
+    color: purple;
+}
+ 
+ .container{
     margin-bottom: 100px;
 }
 .oreng-back{
@@ -16,5 +20,55 @@
     padding: 8px 20px;
     border-radius: 9px;
     cursor: pointer;
-    background-image: linear-gradient(to bottom, pink  0%, rgb(230, 96, 118) 100%);
+    background-image: linear-gradient(to bottom, rgb(228, 73, 99)  0%, rgb(189, 32, 58) 100%);
+}
+.gategoris h1{
+    color: #fff;
+    
+}
+.gategoris img{
+    width: 100px;
+}
+.get1, .get2, .get3{
+    padding: 10px 40px;
+    border-radius: 15px;
+}
+.get1{
+    background-color: orange;
+}
+.get2{
+    background-color: palevioletred;
+}
+.get3{
+    background-color: blue;}
+
+.new-card{
+    border: none;
+    box-shadow: 5px 20px 10px lightgray;
+    height: 370px;
+    padding-left: 20px;
+    min-width: 100px;
+    
+}
+.back-card {
+    border:none;
+    box-shadow: 5px 20px 10px lightgray;
+    /* height: 370px; */
+    padding: 20px; 
+    
+}
+.card-foo{
+    padding-top: 10px;
+   
+}
+.card{
+    border: none;
+    box-shadow: 5px 20px 10px lightgray;
+    /* height: 370px; */
+    /* padding-left: 20px; */
+    /* min-width: 100px; */
+   
+}
+#about{
+    height: 300px;
 }
