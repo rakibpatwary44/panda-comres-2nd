@@ -72,3 +72,12 @@
 #about{
     height: 300px;
 }
+#about h6{
+    color:gainsboro ;
+}
+#about h3{
+    color:darkcyan;
+}
+footer{
+    text-align: center;
+}
